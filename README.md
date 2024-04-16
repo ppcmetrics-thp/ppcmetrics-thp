@@ -1,4 +1,6 @@
-### Hi there 👋
+### I'm Thomas Pl&uuml;ss from Switzerland
+
+This is my work repository. You can find my private repository [here](https://github.com/1stthomas/).
 
 <!--
 **ppcmetrics-thp/ppcmetrics-thp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
